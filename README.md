@@ -1,4 +1,4 @@
-# "Talk Algo to Me": Project Summary
+# Talk Algo to Me
 *Applying Natural Language Processing to Algorithmic Trading for better investment decisions.*
 
 ## Motivation
