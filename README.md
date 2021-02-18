@@ -1,5 +1,5 @@
 # "Talk Algo to Me": Project Summary
-*Applying Algorithmic Trading and Natural Language Processing for better investment decisions.*
+*Applying Natural Language Processing to Algorithmic Trading for better investment decisions.*
 
 ## Motivation
 Our motivation for this project stems from the need to supplement *traditional trading methods* with *machine learning and deep learning techniques* to make **better trading decisions as investors**.
